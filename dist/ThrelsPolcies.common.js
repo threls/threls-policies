@@ -6624,7 +6624,7 @@ var CookieStore_CookieStore = /*#__PURE__*/function (_StoreModule) {
 __decorate([Mutation], CookieStore_CookieStore.prototype, "SET_OPTIONS", null);
 
 CookieStore_CookieStore = __decorate([Module({
-  name: 'threls-cookie-vue-package',
+  name: 'threls-cookie',
   stateFactory: true,
   namespaced: true
 })], CookieStore_CookieStore);

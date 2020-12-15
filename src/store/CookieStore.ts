@@ -3,7 +3,7 @@ import { Module, Mutation, Action } from 'vuex-module-decorators'
 import { ThrelsCookieParams } from "@/types";
 
 @Module({
-    name: 'threls-cookie-vue-package',
+    name: 'threls-cookie',
     stateFactory: true,
     namespaced: true
 })
