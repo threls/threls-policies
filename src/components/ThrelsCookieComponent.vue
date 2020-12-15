@@ -10,8 +10,8 @@
               class="text-center">
             <h3>Cookie Policy</h3>
             <p>
-              We use cookies to help improve your experience of {{ website }}. This cookie policy is part of {{
-                entity
+              We use cookies to help improve your experience of {{ params.website }}. This cookie policy is part of {{
+                params.entity
               }}'s privacy policy, and covers the use of cookies between your device and our site. We also provide basic
               information on third-party services we may use, who may also use cookies as part of their service, though
               they are not covered by our policy.
@@ -157,16 +157,8 @@ import { getModule } from "vuex-module-decorators";
 })
 export default class ThrelsCookieComponent extends Vue {
 
-  get cookieStore () {
-    return getModule(CookieStore, this.$store)
-  }
-
-  get website(){
-    return this.cookieStore.website
-  }
-
-  get entity(){
-    return this.cookieStore.entity
+  get params() {
+    return this.$threlsCookie.params
   }
 }
 </script>

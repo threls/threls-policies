@@ -5522,12 +5522,12 @@ function _createClass(Constructor, protoProps, staticProps) {
 // EXTERNAL MODULE: ./node_modules/vue-property-decorator/lib/vue-property-decorator.js
 var vue_property_decorator = __webpack_require__("60a3");
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsCookieComponent.vue?vue&type=template&id=3c417efb&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Cookie Policy")]),_c('p',[_vm._v(" We use cookies to help improve your experience of "+_vm._s(_vm.website)+". This cookie policy is part of "+_vm._s(_vm.entity)+"'s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy. ")]),(_vm.consented)?_c('div',{staticClass:"mt-5"},[_vm._v("You have given us consent to use cookies. ")]):_vm._e(),(!_vm.consented)?_c('div',{staticClass:"mt-5"},[_vm._v("You have not given us the consent to use cookies ")]):_vm._e(),_c('div',{staticClass:"button-container mt-3"},[_c('b',{staticStyle:{"size":"40px","color":"red"}},[_vm._v("to replace here")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("What is a cookie?")]),_c('p',[_vm._v("A cookie is a small piece of data that a website stores on your device when you visit, typically containing information about the website itself, a unique identifier that allows the site to recognise your web browser when you return, additional data that serves the purpose of the cookie, and the lifespan of the cookie itself.")]),_c('p',[_vm._v("Cookies are used to enable certain features (eg. logging in), to track site usage (eg. analytics), to store your user settings (eg. timezone, notification preferences), and to personalise your content (eg. advertising, language).")]),_c('p',[_vm._v("Cookies set by the website you are visiting are normally referred to as “first-party cookies”, and typically only track your activity on that particular site. Cookies set by other sites and companies (ie. third parties) are called “third-party cookies”, and can be used to track you on other websites that use the same third-party service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("Types of cookies and how we use them")]),_c('h5',[_vm._v("Essential cookies")]),_c('p',[_vm._v("Essential cookies are crucial to your experience of a website, enabling core features like user logins, account management, shopping carts and payment processing. We use essential cookies to enable certain functions on our website.")]),_c('h5',[_vm._v("Performance cookies")]),_c('p',[_vm._v("Performance cookies are used in the tracking of how you use a website during your visit, without collecting personal information about you. Typically, this information is anonymous and aggregated with information tracked across all site users, to help companies understand visitor usage patterns, identify and diagnose problems or errors their users may encounter, and make better strategic decisions in improving their audience’s overall website experience. These cookies may be set by the website you’re visiting (first-party) or by third-party services. We use performance cookies on our site.")]),_c('h5',[_vm._v("Functionality cookies")]),_c('p',[_vm._v("Functionality cookies are used in collecting information about your device and any settings you may configure on the website you’re visiting (like language and timezone settings). With this information, websites can provide you with customised, enhanced or optimised content and services. These cookies may be set by the website you’re visiting (first-party) or by third-party service. We use functionality cookies for selected features on our site.")]),_c('h5',[_vm._v("Targeting/advertising cookies")]),_c('p',[_vm._v("Targeting/advertising cookies are used in determining what promotional content is more relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or to limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service. We use targeting/advertising cookies on our site.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("Third-party cookies on our site")]),_c('p',[_vm._v("We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by this cookie policy.")]),_c('h5',[_vm._v("Our third-party privacy promise")]),_c('p',[_vm._v("We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours. We will never knowingly include third-party services that compromise or violate the privacy of our users.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("How you can control or opt out of cookies")]),_c('p',[_vm._v("If you do not wish to accept cookies from us, you can instruct your browser to refuse cookies from our website. Most browsers are configured to accept cookies by default, but you can update these settings to either refuse cookies altogether, or to notify you when a website is trying to set or update a cookie.")]),_c('p',[_vm._v("If you browse websites from multiple devices, you may need to update your settings on each individual device.")]),_c('p',[_vm._v("Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.")])])],1)],1)],1)],1)}
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsCookieComponent.vue?vue&type=template&id=49ad82c5&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Cookie Policy")]),_c('p',[_vm._v(" We use cookies to help improve your experience of "+_vm._s(_vm.params.website)+". This cookie policy is part of "+_vm._s(_vm.params.entity)+"'s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy. ")]),(_vm.consented)?_c('div',{staticClass:"mt-5"},[_vm._v("You have given us consent to use cookies. ")]):_vm._e(),(!_vm.consented)?_c('div',{staticClass:"mt-5"},[_vm._v("You have not given us the consent to use cookies ")]):_vm._e(),_c('div',{staticClass:"button-container mt-3"},[_c('b',{staticStyle:{"size":"40px","color":"red"}},[_vm._v("to replace here")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("What is a cookie?")]),_c('p',[_vm._v("A cookie is a small piece of data that a website stores on your device when you visit, typically containing information about the website itself, a unique identifier that allows the site to recognise your web browser when you return, additional data that serves the purpose of the cookie, and the lifespan of the cookie itself.")]),_c('p',[_vm._v("Cookies are used to enable certain features (eg. logging in), to track site usage (eg. analytics), to store your user settings (eg. timezone, notification preferences), and to personalise your content (eg. advertising, language).")]),_c('p',[_vm._v("Cookies set by the website you are visiting are normally referred to as “first-party cookies”, and typically only track your activity on that particular site. Cookies set by other sites and companies (ie. third parties) are called “third-party cookies”, and can be used to track you on other websites that use the same third-party service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("Types of cookies and how we use them")]),_c('h5',[_vm._v("Essential cookies")]),_c('p',[_vm._v("Essential cookies are crucial to your experience of a website, enabling core features like user logins, account management, shopping carts and payment processing. We use essential cookies to enable certain functions on our website.")]),_c('h5',[_vm._v("Performance cookies")]),_c('p',[_vm._v("Performance cookies are used in the tracking of how you use a website during your visit, without collecting personal information about you. Typically, this information is anonymous and aggregated with information tracked across all site users, to help companies understand visitor usage patterns, identify and diagnose problems or errors their users may encounter, and make better strategic decisions in improving their audience’s overall website experience. These cookies may be set by the website you’re visiting (first-party) or by third-party services. We use performance cookies on our site.")]),_c('h5',[_vm._v("Functionality cookies")]),_c('p',[_vm._v("Functionality cookies are used in collecting information about your device and any settings you may configure on the website you’re visiting (like language and timezone settings). With this information, websites can provide you with customised, enhanced or optimised content and services. These cookies may be set by the website you’re visiting (first-party) or by third-party service. We use functionality cookies for selected features on our site.")]),_c('h5',[_vm._v("Targeting/advertising cookies")]),_c('p',[_vm._v("Targeting/advertising cookies are used in determining what promotional content is more relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or to limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service. We use targeting/advertising cookies on our site.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("Third-party cookies on our site")]),_c('p',[_vm._v("We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by this cookie policy.")]),_c('h5',[_vm._v("Our third-party privacy promise")]),_c('p',[_vm._v("We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours. We will never knowingly include third-party services that compromise or violate the privacy of our users.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("How you can control or opt out of cookies")]),_c('p',[_vm._v("If you do not wish to accept cookies from us, you can instruct your browser to refuse cookies from our website. Most browsers are configured to accept cookies by default, but you can update these settings to either refuse cookies altogether, or to notify you when a website is trying to set or update a cookie.")]),_c('p',[_vm._v("If you browse websites from multiple devices, you may need to update your settings on each individual device.")]),_c('p',[_vm._v("Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.")])])],1)],1)],1)],1)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue?vue&type=template&id=3c417efb&
+// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue?vue&type=template&id=49ad82c5&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.create.js
 var es_object_create = __webpack_require__("b8bf");
@@ -5906,6 +5906,315 @@ function __classPrivateFieldSet(receiver, privateMap, value) {
 // EXTERNAL MODULE: ./node_modules/nuxt-property-decorator/lib/nuxt-property-decorator.umd.js
 var nuxt_property_decorator_umd = __webpack_require__("326b");
 
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsCookieComponent.vue?vue&type=script&lang=ts&
+
+
+
+
+
+
+
+var ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent = /*#__PURE__*/function (_Vue) {
+  _inherits(ThrelsCookieComponent, _Vue);
+
+  var _super = _createSuper(ThrelsCookieComponent);
+
+  function ThrelsCookieComponent() {
+    _classCallCheck(this, ThrelsCookieComponent);
+
+    return _super.apply(this, arguments);
+  }
+
+  _createClass(ThrelsCookieComponent, [{
+    key: "params",
+    get: function get() {
+      return this.$threlsCookie.params;
+    }
+  }]);
+
+  return ThrelsCookieComponent;
+}(nuxt_property_decorator_umd["Vue"]);
+
+ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
+  components: {}
+})], ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent);
+/* harmony default export */ var ThrelsCookieComponentvue_type_script_lang_ts_ = (ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent);
+// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue?vue&type=script&lang=ts&
+ /* harmony default export */ var components_ThrelsCookieComponentvue_type_script_lang_ts_ = (ThrelsCookieComponentvue_type_script_lang_ts_); 
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+/* globals __VUE_SSR_CONTEXT__ */
+
+// IMPORTANT: Do NOT use ES2015 features in this file (except for modules).
+// This module is a runtime utility for cleaner component module output and will
+// be included in the final webpack user bundle.
+
+function normalizeComponent (
+  scriptExports,
+  render,
+  staticRenderFns,
+  functionalTemplate,
+  injectStyles,
+  scopeId,
+  moduleIdentifier, /* server only */
+  shadowMode /* vue-cli only */
+) {
+  // Vue.extend constructor export interop
+  var options = typeof scriptExports === 'function'
+    ? scriptExports.options
+    : scriptExports
+
+  // render functions
+  if (render) {
+    options.render = render
+    options.staticRenderFns = staticRenderFns
+    options._compiled = true
+  }
+
+  // functional template
+  if (functionalTemplate) {
+    options.functional = true
+  }
+
+  // scopedId
+  if (scopeId) {
+    options._scopeId = 'data-v-' + scopeId
+  }
+
+  var hook
+  if (moduleIdentifier) { // server build
+    hook = function (context) {
+      // 2.3 injection
+      context =
+        context || // cached call
+        (this.$vnode && this.$vnode.ssrContext) || // stateful
+        (this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) // functional
+      // 2.2 with runInNewContext: true
+      if (!context && typeof __VUE_SSR_CONTEXT__ !== 'undefined') {
+        context = __VUE_SSR_CONTEXT__
+      }
+      // inject component styles
+      if (injectStyles) {
+        injectStyles.call(this, context)
+      }
+      // register component module identifier for async chunk inferrence
+      if (context && context._registeredComponents) {
+        context._registeredComponents.add(moduleIdentifier)
+      }
+    }
+    // used by ssr in case component is cached and beforeCreate
+    // never gets called
+    options._ssrRegister = hook
+  } else if (injectStyles) {
+    hook = shadowMode
+      ? function () {
+        injectStyles.call(
+          this,
+          (options.functional ? this.parent : this).$root.$options.shadowRoot
+        )
+      }
+      : injectStyles
+  }
+
+  if (hook) {
+    if (options.functional) {
+      // for template-only hot-reload because in that case the render fn doesn't
+      // go through the normalizer
+      options._injectStyles = hook
+      // register for functional component in vue file
+      var originalRender = options.render
+      options.render = function renderWithStyleInjection (h, context) {
+        hook.call(context)
+        return originalRender(h, context)
+      }
+    } else {
+      // inject component registration as beforeCreate hook
+      var existing = options.beforeCreate
+      options.beforeCreate = existing
+        ? [].concat(existing, hook)
+        : [hook]
+    }
+  }
+
+  return {
+    exports: scriptExports,
+    options: options
+  }
+}
+
+// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue
+
+
+
+
+
+/* normalize component */
+
+var component = normalizeComponent(
+  components_ThrelsCookieComponentvue_type_script_lang_ts_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var components_ThrelsCookieComponent = (component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=template&id=690389c4&scoped=true&
+var ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"pb-0"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center py-4",attrs:{"md":"8","offset-md":"2"}},[_c('b-nav',{attrs:{"pills":"","align":"center"}},[_c('b-nav-item',{attrs:{"to":"/policies/privacy","active-class":"active"}},[_vm._v("Privacy Policy")]),_c('b-nav-item',{attrs:{"to":"/policies/terms","active-class":"active"}},[_vm._v("Terms of Service")]),_c('b-nav-item',{attrs:{"to":"/policies/cookie","active-class":"active"}},[_vm._v("Cookie Policy")])],1)],1)],1)],1)],1)}
+var ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=template&id=690389c4&scoped=true&
+
+// EXTERNAL MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=style&index=0&id=690389c4&lang=scss&scoped=true&
+var ThrelsPoliciesMenuComponentvue_type_style_index_0_id_690389c4_lang_scss_scoped_true_ = __webpack_require__("b9d8");
+
+// CONCATENATED MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue
+
+var script = {}
+
+
+
+/* normalize component */
+
+var ThrelsPoliciesMenuComponent_component = normalizeComponent(
+  script,
+  ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_render,
+  ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_staticRenderFns,
+  false,
+  null,
+  "690389c4",
+  null
+  
+)
+
+/* harmony default export */ var ThrelsPoliciesMenuComponent = (ThrelsPoliciesMenuComponent_component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPrivacyComponent.vue?vue&type=template&id=537ec46e&
+var ThrelsPrivacyComponentvue_type_template_id_537ec46e_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Privacy Policy")]),_c('p',[_vm._v(" Your privacy is important to us. It is "+_vm._s(_vm.params.entity)+"'s policy to respect your privacy regarding any information we may collect from you across our website, "+_vm._s(_vm.params.website)+", and other sites we own and operate. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Information we collect")]),_c('h5',[_vm._v("Log data")]),_c('p',[_vm._v(" When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details. ")]),_c('h5',[_vm._v("Device data")]),_c('p',[_vm._v(" We may also collect data about the device you’re using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us. ")]),_c('h5',[_vm._v("Personal information")]),_c('p',[_vm._v(" We may ask for personal information, such as your: ")]),_c('ul',[_c('li',[_vm._v("Name")]),_c('li',[_vm._v("Email")]),_c('li',[_vm._v("Social media profiles")]),_c('li',[_vm._v("Date of birth")]),_c('li',[_vm._v("Phone/mobile number")]),_c('li',[_vm._v("Home/Mailing address")]),_c('li',[_vm._v("Work address")]),_c('li',[_vm._v("Payment information")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Legal bases for processing")]),_c('p',[_vm._v(" We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so. ")]),_c('p',[_vm._v(" These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where: ")]),_c('ul',[_c('li',[_vm._v(" it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us); ")]),_c('li',[_vm._v(" it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests; ")]),_c('li',[_vm._v(" you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or ")]),_c('li',[_vm._v(" we need to process your data to comply with a legal obligation. ")])]),_c('p',[_vm._v(" Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place). ")]),_c('p',[_vm._v(" We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Collection and use of information")]),_c('p',[_vm._v(" We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes: ")]),_c('ul',[_c('li',[_vm._v(" to enable you to customise or personalise your experience of our website; ")]),_c('li',[_vm._v(" to enable you to access and use our website, associated applications and associated social media platforms; ")]),_c('li',[_vm._v("to contact and communicate with you;")]),_c('li',[_vm._v(" for internal record keeping and administrative purposes; ")]),_c('li',[_vm._v(" for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms; ")]),_c('li',[_vm._v(" to run competitions and/or offer additional benefits to you; ")]),_c('li',[_vm._v(" for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you; ")]),_c('li',[_vm._v(" to comply with our legal obligations and resolve any disputes that we may have; and ")]),_c('li',[_vm._v("to consider your employment application.")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 4. Disclosure of personal information to third parties ")]),_c('p',[_vm._v("We may disclose personal information to:")]),_c('ul',[_c('li',[_vm._v(" third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, hosting and server providers, ad networks, analytics, error loggers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators; ")]),_c('li',[_vm._v(" our employees, contractors and/or related entities; ")]),_c('li',[_vm._v(" sponsors or promoters of any competition we run; ")]),_c('li',[_vm._v(" credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you; ")]),_c('li',[_vm._v(" courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights; ")]),_c('li',[_vm._v(" third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and ")]),_c('li',[_vm._v("third parties to collect and process data.")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 5. International transfers of personal information ")]),_c('p',[_vm._v(" The personal information we collect is stored and processed where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties. ")]),_c('p',[_vm._v(" We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means. ")]),_c('p',[_vm._v(" Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 6. Your rights and controlling your personal information ")]),_c('p',[_c('strong',[_vm._v("Choice and consent:")]),_vm._v(" By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it. ")]),_c('p',[_c('strong',[_vm._v("Information from third parties:")]),_vm._v(" If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us. ")]),_c('p',[_c('strong',[_vm._v("Restrict:")]),_vm._v(" You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services. ")]),_c('p',[_c('strong',[_vm._v("Access and data portability:")]),_vm._v(" You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party. ")]),_c('p',[_c('strong',[_vm._v("Correction:")]),_vm._v(" If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date. ")]),_c('p',[_c('strong',[_vm._v("Notification of data breaches:")]),_vm._v(" We will comply laws applicable to us in respect of any data breach. ")]),_c('p',[_c('strong',[_vm._v("Complaints:")]),_vm._v(" If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint. ")]),_c('p',[_c('strong',[_vm._v("Unsubscribe:")]),_vm._v(" To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Cookies")]),_c('p',[_vm._v(" We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Business transfers")]),_c('p',[_vm._v(" If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("9. Limits of our policy")]),_c('p',[_vm._v(" Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("10. Changes to this policy")]),_c('p',[_vm._v(" At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information. ")]),_c('p',[_vm._v(" If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy. ")]),_c('p',[_c('strong',[_vm._v(_vm._s(_vm.params.entity)+" Data Controller")]),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataController.name)),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataController.email)+" ")]),_c('p',[_c('strong',[_vm._v(_vm._s(_vm.params.entity)+" Data Protection Officer")]),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataProtection.name)),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataProtection.email)+" ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('p',[_vm._v(" This policy is effective as of "+_vm._s(_vm.params.effectiveDate)+". ")])])],1)],1)],1)],1)}
+var ThrelsPrivacyComponentvue_type_template_id_537ec46e_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue?vue&type=template&id=537ec46e&
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPrivacyComponent.vue?vue&type=script&lang=ts&
+
+
+
+
+
+
+
+var ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent = /*#__PURE__*/function (_Vue) {
+  _inherits(ThrelsPrivacyComponent, _Vue);
+
+  var _super = _createSuper(ThrelsPrivacyComponent);
+
+  function ThrelsPrivacyComponent() {
+    _classCallCheck(this, ThrelsPrivacyComponent);
+
+    return _super.apply(this, arguments);
+  }
+
+  _createClass(ThrelsPrivacyComponent, [{
+    key: "params",
+    get: function get() {
+      return this.$threlsCookie.params;
+    }
+  }]);
+
+  return ThrelsPrivacyComponent;
+}(nuxt_property_decorator_umd["Vue"]);
+
+ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
+  name: 'threls-privacy-component'
+})], ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent);
+/* harmony default export */ var ThrelsPrivacyComponentvue_type_script_lang_ts_ = (ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent);
+// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue?vue&type=script&lang=ts&
+ /* harmony default export */ var components_ThrelsPrivacyComponentvue_type_script_lang_ts_ = (ThrelsPrivacyComponentvue_type_script_lang_ts_); 
+// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue
+
+
+
+
+
+/* normalize component */
+
+var ThrelsPrivacyComponent_component = normalizeComponent(
+  components_ThrelsPrivacyComponentvue_type_script_lang_ts_,
+  ThrelsPrivacyComponentvue_type_template_id_537ec46e_render,
+  ThrelsPrivacyComponentvue_type_template_id_537ec46e_staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var components_ThrelsPrivacyComponent = (ThrelsPrivacyComponent_component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=template&id=32ecdc3b&
+var ThrelsTermsComponentvue_type_template_id_32ecdc3b_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Terms of Service")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Terms")]),_c('p',[_vm._v("By accessing the website at "+_vm._s(_vm.params.website)+", you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Use License")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("Permission is granted to temporarily download one copy of the materials (information or software) on "+_vm._s(_vm.params.entity)+"'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: "),_c('ol',{attrs:{"type":"i"}},[_c('li',[_vm._v("modify or copy the materials;")]),_c('li',[_vm._v("use the materials for any commercial purpose, or for any public display (commercial or non-commercial); ")]),_c('li',[_vm._v("attempt to decompile or reverse engineer any software contained on "+_vm._s(_vm.params.entity)+"'s website;")]),_c('li',[_vm._v("remove any copyright or other proprietary notations from the materials; or")]),_c('li',[_vm._v("transfer the materials to another person or \"mirror\" the materials on any other server.")])])]),_c('li',[_vm._v("This license shall automatically terminate if you violate any of these restrictions and may be terminated by "+_vm._s(_vm.params.entity)+" at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Disclaimer")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("The materials on "+_vm._s(_vm.params.entity)+"'s website are provided on an 'as is' basis. "+_vm._s(_vm.params.entity)+" makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. ")]),_c('li',[_vm._v("Further, "+_vm._s(_vm.params.entity)+" does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("4. Limitations")]),_c('p',[_vm._v("In no event shall "+_vm._s(_vm.params.entity)+" or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on "+_vm._s(_vm.params.entity)+"'s website, even if "+_vm._s(_vm.params.entity)+" or a "+_vm._s(_vm.params.entity)+" authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("5. Accuracy of materials")]),_c('p',[_vm._v("The materials appearing on "+_vm._s(_vm.params.entity)+"'s website could include technical, typographical, or photographic errors. "+_vm._s(_vm.params.entity)+" does not warrant that any of the materials on its website are accurate, complete or current. "+_vm._s(_vm.params.entity)+" may make changes to the materials contained on its website at any time without notice. However "+_vm._s(_vm.params.entity)+" does not make any commitment to update the materials.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("6. Links")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by "+_vm._s(_vm.params.entity)+" of the site. Use of any such linked website is at the user's own risk.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Modifications")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Governing Law")]),_c('p',[_vm._v("These terms and conditions are governed by and construed in accordance with the laws of Malta and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.")])])],1)],1)],1)],1)}
+var ThrelsTermsComponentvue_type_template_id_32ecdc3b_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=template&id=32ecdc3b&
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=script&lang=ts&
+
+
+
+
+
+
+
+var ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent = /*#__PURE__*/function (_Vue) {
+  _inherits(ThrelsTermsComponent, _Vue);
+
+  var _super = _createSuper(ThrelsTermsComponent);
+
+  function ThrelsTermsComponent() {
+    _classCallCheck(this, ThrelsTermsComponent);
+
+    return _super.apply(this, arguments);
+  }
+
+  _createClass(ThrelsTermsComponent, [{
+    key: "params",
+    get: function get() {
+      return this.$threlsCookie.params;
+    }
+  }]);
+
+  return ThrelsTermsComponent;
+}(nuxt_property_decorator_umd["Vue"]);
+
+ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
+  name: 'threls-terms-component'
+})], ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent);
+/* harmony default export */ var ThrelsTermsComponentvue_type_script_lang_ts_ = (ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent);
+// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=script&lang=ts&
+ /* harmony default export */ var components_ThrelsTermsComponentvue_type_script_lang_ts_ = (ThrelsTermsComponentvue_type_script_lang_ts_); 
+// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue
+
+
+
+
+
+/* normalize component */
+
+var ThrelsTermsComponent_component = normalizeComponent(
+  components_ThrelsTermsComponentvue_type_script_lang_ts_,
+  ThrelsTermsComponentvue_type_template_id_32ecdc3b_render,
+  ThrelsTermsComponentvue_type_template_id_32ecdc3b_staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var components_ThrelsTermsComponent = (ThrelsTermsComponent_component.exports);
 // CONCATENATED MODULE: ./node_modules/vuex-module-decorators/dist/esm/index.js
 /**
  * Takes the properties on object from parameter source and adds them to the object
@@ -6504,340 +6813,6 @@ CookieStore_CookieStore = __decorate([Module({
   namespaced: true
 })], CookieStore_CookieStore);
 /* harmony default export */ var store_CookieStore = (CookieStore_CookieStore);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsCookieComponent.vue?vue&type=script&lang=ts&
-
-
-
-
-
-
-
-
-
-var ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent = /*#__PURE__*/function (_Vue) {
-  _inherits(ThrelsCookieComponent, _Vue);
-
-  var _super = _createSuper(ThrelsCookieComponent);
-
-  function ThrelsCookieComponent() {
-    _classCallCheck(this, ThrelsCookieComponent);
-
-    return _super.apply(this, arguments);
-  }
-
-  _createClass(ThrelsCookieComponent, [{
-    key: "cookieStore",
-    get: function get() {
-      return getModule(store_CookieStore, this.$store);
-    }
-  }, {
-    key: "website",
-    get: function get() {
-      return this.cookieStore.website;
-    }
-  }, {
-    key: "entity",
-    get: function get() {
-      return this.cookieStore.entity;
-    }
-  }]);
-
-  return ThrelsCookieComponent;
-}(nuxt_property_decorator_umd["Vue"]);
-
-ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
-  components: {}
-})], ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent);
-/* harmony default export */ var ThrelsCookieComponentvue_type_script_lang_ts_ = (ThrelsCookieComponentvue_type_script_lang_ts_ThrelsCookieComponent);
-// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue?vue&type=script&lang=ts&
- /* harmony default export */ var components_ThrelsCookieComponentvue_type_script_lang_ts_ = (ThrelsCookieComponentvue_type_script_lang_ts_); 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
-/* globals __VUE_SSR_CONTEXT__ */
-
-// IMPORTANT: Do NOT use ES2015 features in this file (except for modules).
-// This module is a runtime utility for cleaner component module output and will
-// be included in the final webpack user bundle.
-
-function normalizeComponent (
-  scriptExports,
-  render,
-  staticRenderFns,
-  functionalTemplate,
-  injectStyles,
-  scopeId,
-  moduleIdentifier, /* server only */
-  shadowMode /* vue-cli only */
-) {
-  // Vue.extend constructor export interop
-  var options = typeof scriptExports === 'function'
-    ? scriptExports.options
-    : scriptExports
-
-  // render functions
-  if (render) {
-    options.render = render
-    options.staticRenderFns = staticRenderFns
-    options._compiled = true
-  }
-
-  // functional template
-  if (functionalTemplate) {
-    options.functional = true
-  }
-
-  // scopedId
-  if (scopeId) {
-    options._scopeId = 'data-v-' + scopeId
-  }
-
-  var hook
-  if (moduleIdentifier) { // server build
-    hook = function (context) {
-      // 2.3 injection
-      context =
-        context || // cached call
-        (this.$vnode && this.$vnode.ssrContext) || // stateful
-        (this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) // functional
-      // 2.2 with runInNewContext: true
-      if (!context && typeof __VUE_SSR_CONTEXT__ !== 'undefined') {
-        context = __VUE_SSR_CONTEXT__
-      }
-      // inject component styles
-      if (injectStyles) {
-        injectStyles.call(this, context)
-      }
-      // register component module identifier for async chunk inferrence
-      if (context && context._registeredComponents) {
-        context._registeredComponents.add(moduleIdentifier)
-      }
-    }
-    // used by ssr in case component is cached and beforeCreate
-    // never gets called
-    options._ssrRegister = hook
-  } else if (injectStyles) {
-    hook = shadowMode
-      ? function () {
-        injectStyles.call(
-          this,
-          (options.functional ? this.parent : this).$root.$options.shadowRoot
-        )
-      }
-      : injectStyles
-  }
-
-  if (hook) {
-    if (options.functional) {
-      // for template-only hot-reload because in that case the render fn doesn't
-      // go through the normalizer
-      options._injectStyles = hook
-      // register for functional component in vue file
-      var originalRender = options.render
-      options.render = function renderWithStyleInjection (h, context) {
-        hook.call(context)
-        return originalRender(h, context)
-      }
-    } else {
-      // inject component registration as beforeCreate hook
-      var existing = options.beforeCreate
-      options.beforeCreate = existing
-        ? [].concat(existing, hook)
-        : [hook]
-    }
-  }
-
-  return {
-    exports: scriptExports,
-    options: options
-  }
-}
-
-// CONCATENATED MODULE: ./src/components/ThrelsCookieComponent.vue
-
-
-
-
-
-/* normalize component */
-
-var component = normalizeComponent(
-  components_ThrelsCookieComponentvue_type_script_lang_ts_,
-  render,
-  staticRenderFns,
-  false,
-  null,
-  null,
-  null
-  
-)
-
-/* harmony default export */ var components_ThrelsCookieComponent = (component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=template&id=690389c4&scoped=true&
-var ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"pb-0"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center py-4",attrs:{"md":"8","offset-md":"2"}},[_c('b-nav',{attrs:{"pills":"","align":"center"}},[_c('b-nav-item',{attrs:{"to":"/policies/privacy","active-class":"active"}},[_vm._v("Privacy Policy")]),_c('b-nav-item',{attrs:{"to":"/policies/terms","active-class":"active"}},[_vm._v("Terms of Service")]),_c('b-nav-item',{attrs:{"to":"/policies/cookie","active-class":"active"}},[_vm._v("Cookie Policy")])],1)],1)],1)],1)],1)}
-var ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=template&id=690389c4&scoped=true&
-
-// EXTERNAL MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue?vue&type=style&index=0&id=690389c4&lang=scss&scoped=true&
-var ThrelsPoliciesMenuComponentvue_type_style_index_0_id_690389c4_lang_scss_scoped_true_ = __webpack_require__("b9d8");
-
-// CONCATENATED MODULE: ./src/components/ThrelsPoliciesMenuComponent.vue
-
-var script = {}
-
-
-
-/* normalize component */
-
-var ThrelsPoliciesMenuComponent_component = normalizeComponent(
-  script,
-  ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_render,
-  ThrelsPoliciesMenuComponentvue_type_template_id_690389c4_scoped_true_staticRenderFns,
-  false,
-  null,
-  "690389c4",
-  null
-  
-)
-
-/* harmony default export */ var ThrelsPoliciesMenuComponent = (ThrelsPoliciesMenuComponent_component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPrivacyComponent.vue?vue&type=template&id=537ec46e&
-var ThrelsPrivacyComponentvue_type_template_id_537ec46e_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Privacy Policy")]),_c('p',[_vm._v(" Your privacy is important to us. It is "+_vm._s(_vm.params.entity)+"'s policy to respect your privacy regarding any information we may collect from you across our website, "+_vm._s(_vm.params.website)+", and other sites we own and operate. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Information we collect")]),_c('h5',[_vm._v("Log data")]),_c('p',[_vm._v(" When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details. ")]),_c('h5',[_vm._v("Device data")]),_c('p',[_vm._v(" We may also collect data about the device you’re using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us. ")]),_c('h5',[_vm._v("Personal information")]),_c('p',[_vm._v(" We may ask for personal information, such as your: ")]),_c('ul',[_c('li',[_vm._v("Name")]),_c('li',[_vm._v("Email")]),_c('li',[_vm._v("Social media profiles")]),_c('li',[_vm._v("Date of birth")]),_c('li',[_vm._v("Phone/mobile number")]),_c('li',[_vm._v("Home/Mailing address")]),_c('li',[_vm._v("Work address")]),_c('li',[_vm._v("Payment information")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Legal bases for processing")]),_c('p',[_vm._v(" We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so. ")]),_c('p',[_vm._v(" These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where: ")]),_c('ul',[_c('li',[_vm._v(" it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us); ")]),_c('li',[_vm._v(" it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests; ")]),_c('li',[_vm._v(" you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or ")]),_c('li',[_vm._v(" we need to process your data to comply with a legal obligation. ")])]),_c('p',[_vm._v(" Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place). ")]),_c('p',[_vm._v(" We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Collection and use of information")]),_c('p',[_vm._v(" We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes: ")]),_c('ul',[_c('li',[_vm._v(" to enable you to customise or personalise your experience of our website; ")]),_c('li',[_vm._v(" to enable you to access and use our website, associated applications and associated social media platforms; ")]),_c('li',[_vm._v("to contact and communicate with you;")]),_c('li',[_vm._v(" for internal record keeping and administrative purposes; ")]),_c('li',[_vm._v(" for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms; ")]),_c('li',[_vm._v(" to run competitions and/or offer additional benefits to you; ")]),_c('li',[_vm._v(" for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you; ")]),_c('li',[_vm._v(" to comply with our legal obligations and resolve any disputes that we may have; and ")]),_c('li',[_vm._v("to consider your employment application.")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 4. Disclosure of personal information to third parties ")]),_c('p',[_vm._v("We may disclose personal information to:")]),_c('ul',[_c('li',[_vm._v(" third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, hosting and server providers, ad networks, analytics, error loggers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators; ")]),_c('li',[_vm._v(" our employees, contractors and/or related entities; ")]),_c('li',[_vm._v(" sponsors or promoters of any competition we run; ")]),_c('li',[_vm._v(" credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you; ")]),_c('li',[_vm._v(" courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights; ")]),_c('li',[_vm._v(" third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and ")]),_c('li',[_vm._v("third parties to collect and process data.")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 5. International transfers of personal information ")]),_c('p',[_vm._v(" The personal information we collect is stored and processed where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties. ")]),_c('p',[_vm._v(" We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means. ")]),_c('p',[_vm._v(" Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v(" 6. Your rights and controlling your personal information ")]),_c('p',[_c('strong',[_vm._v("Choice and consent:")]),_vm._v(" By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it. ")]),_c('p',[_c('strong',[_vm._v("Information from third parties:")]),_vm._v(" If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us. ")]),_c('p',[_c('strong',[_vm._v("Restrict:")]),_vm._v(" You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services. ")]),_c('p',[_c('strong',[_vm._v("Access and data portability:")]),_vm._v(" You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party. ")]),_c('p',[_c('strong',[_vm._v("Correction:")]),_vm._v(" If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date. ")]),_c('p',[_c('strong',[_vm._v("Notification of data breaches:")]),_vm._v(" We will comply laws applicable to us in respect of any data breach. ")]),_c('p',[_c('strong',[_vm._v("Complaints:")]),_vm._v(" If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint. ")]),_c('p',[_c('strong',[_vm._v("Unsubscribe:")]),_vm._v(" To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Cookies")]),_c('p',[_vm._v(" We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Business transfers")]),_c('p',[_vm._v(" If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("9. Limits of our policy")]),_c('p',[_vm._v(" Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("10. Changes to this policy")]),_c('p',[_vm._v(" At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information. ")]),_c('p',[_vm._v(" If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy. ")]),_c('p',[_c('strong',[_vm._v(_vm._s(_vm.params.entity)+" Data Controller")]),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataController.name)),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataController.email)+" ")]),_c('p',[_c('strong',[_vm._v(_vm._s(_vm.params.entity)+" Data Protection Officer")]),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataProtection.name)),_c('br'),_vm._v(" "+_vm._s(_vm.params.dataProtection.email)+" ")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('p',[_vm._v(" This policy is effective as of "+_vm._s(_vm.params.effectiveDate)+". ")])])],1)],1)],1)],1)}
-var ThrelsPrivacyComponentvue_type_template_id_537ec46e_staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue?vue&type=template&id=537ec46e&
-
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsPrivacyComponent.vue?vue&type=script&lang=ts&
-
-
-
-
-
-
-
-var ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent = /*#__PURE__*/function (_Vue) {
-  _inherits(ThrelsPrivacyComponent, _Vue);
-
-  var _super = _createSuper(ThrelsPrivacyComponent);
-
-  function ThrelsPrivacyComponent() {
-    _classCallCheck(this, ThrelsPrivacyComponent);
-
-    return _super.apply(this, arguments);
-  }
-
-  _createClass(ThrelsPrivacyComponent, [{
-    key: "params",
-    get: function get() {
-      return this.$threlsCookie.params;
-    }
-  }]);
-
-  return ThrelsPrivacyComponent;
-}(nuxt_property_decorator_umd["Vue"]);
-
-ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
-  name: 'threls-privacy-component'
-})], ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent);
-/* harmony default export */ var ThrelsPrivacyComponentvue_type_script_lang_ts_ = (ThrelsPrivacyComponentvue_type_script_lang_ts_ThrelsPrivacyComponent);
-// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue?vue&type=script&lang=ts&
- /* harmony default export */ var components_ThrelsPrivacyComponentvue_type_script_lang_ts_ = (ThrelsPrivacyComponentvue_type_script_lang_ts_); 
-// CONCATENATED MODULE: ./src/components/ThrelsPrivacyComponent.vue
-
-
-
-
-
-/* normalize component */
-
-var ThrelsPrivacyComponent_component = normalizeComponent(
-  components_ThrelsPrivacyComponentvue_type_script_lang_ts_,
-  ThrelsPrivacyComponentvue_type_template_id_537ec46e_render,
-  ThrelsPrivacyComponentvue_type_template_id_537ec46e_staticRenderFns,
-  false,
-  null,
-  null,
-  null
-  
-)
-
-/* harmony default export */ var components_ThrelsPrivacyComponent = (ThrelsPrivacyComponent_component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=template&id=1d1d1bdb&
-var ThrelsTermsComponentvue_type_template_id_1d1d1bdb_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Terms of Service")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Terms")]),_c('p',[_vm._v("By accessing the website at "+_vm._s(_vm.website)+", you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Use License")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("Permission is granted to temporarily download one copy of the materials (information or software) on "+_vm._s(_vm.entity)+"'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: "),_c('ol',{attrs:{"type":"i"}},[_c('li',[_vm._v("modify or copy the materials;")]),_c('li',[_vm._v("use the materials for any commercial purpose, or for any public display (commercial or non-commercial); ")]),_c('li',[_vm._v("attempt to decompile or reverse engineer any software contained on "+_vm._s(_vm.entity)+"'s website;")]),_c('li',[_vm._v("remove any copyright or other proprietary notations from the materials; or")]),_c('li',[_vm._v("transfer the materials to another person or \"mirror\" the materials on any other server.")])])]),_c('li',[_vm._v("This license shall automatically terminate if you violate any of these restrictions and may be terminated by "+_vm._s(_vm.entity)+" at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Disclaimer")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("The materials on "+_vm._s(_vm.entity)+"'s website are provided on an 'as is' basis. "+_vm._s(_vm.entity)+" makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. ")]),_c('li',[_vm._v("Further, "+_vm._s(_vm.entity)+" does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("4. Limitations")]),_c('p',[_vm._v("In no event shall "+_vm._s(_vm.entity)+" or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on "+_vm._s(_vm.entity)+"'s website, even if "+_vm._s(_vm.entity)+" or a "+_vm._s(_vm.entity)+" authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("5. Accuracy of materials")]),_c('p',[_vm._v("The materials appearing on "+_vm._s(_vm.entity)+"'s website could include technical, typographical, or photographic errors. "+_vm._s(_vm.entity)+" does not warrant that any of the materials on its website are accurate, complete or current. "+_vm._s(_vm.entity)+" may make changes to the materials contained on its website at any time without notice. However "+_vm._s(_vm.entity)+" does not make any commitment to update the materials.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("6. Links")]),_c('p',[_vm._v(_vm._s(_vm.entity)+" has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by "+_vm._s(_vm.entity)+" of the site. Use of any such linked website is at the user's own risk.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Modifications")]),_c('p',[_vm._v(_vm._s(_vm.entity)+" may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Governing Law")]),_c('p',[_vm._v("These terms and conditions are governed by and construed in accordance with the laws of Malta and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.")])])],1)],1)],1)],1)}
-var ThrelsTermsComponentvue_type_template_id_1d1d1bdb_staticRenderFns = []
-
-
-// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=template&id=1d1d1bdb&
-
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=script&lang=ts&
-
-
-
-
-
- // import PolicyMenu from "./ThrelsPoliciesMenuComponent.vue";
-
-
-
-
-var ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent = /*#__PURE__*/function (_Vue) {
-  _inherits(ThrelsTermsComponent, _Vue);
-
-  var _super = _createSuper(ThrelsTermsComponent);
-
-  function ThrelsTermsComponent() {
-    _classCallCheck(this, ThrelsTermsComponent);
-
-    return _super.apply(this, arguments);
-  }
-
-  _createClass(ThrelsTermsComponent, [{
-    key: "cookieStore",
-    get: function get() {
-      return getModule(store_CookieStore, this.$store);
-    }
-  }, {
-    key: "website",
-    get: function get() {
-      return this.cookieStore.website;
-    }
-  }, {
-    key: "entity",
-    get: function get() {
-      return this.cookieStore.entity;
-    }
-  }]);
-
-  return ThrelsTermsComponent;
-}(nuxt_property_decorator_umd["Vue"]);
-
-ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent = __decorate([Object(nuxt_property_decorator_umd["Component"])({
-  name: 'threls-terms-component'
-})], ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent);
-/* harmony default export */ var ThrelsTermsComponentvue_type_script_lang_ts_ = (ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent);
-// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=script&lang=ts&
- /* harmony default export */ var components_ThrelsTermsComponentvue_type_script_lang_ts_ = (ThrelsTermsComponentvue_type_script_lang_ts_); 
-// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue
-
-
-
-
-
-/* normalize component */
-
-var ThrelsTermsComponent_component = normalizeComponent(
-  components_ThrelsTermsComponentvue_type_script_lang_ts_,
-  ThrelsTermsComponentvue_type_template_id_1d1d1bdb_render,
-  ThrelsTermsComponentvue_type_template_id_1d1d1bdb_staticRenderFns,
-  false,
-  null,
-  null,
-  null
-  
-)
-
-/* harmony default export */ var components_ThrelsTermsComponent = (ThrelsTermsComponent_component.exports);
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.filter.js
 var es_array_filter = __webpack_require__("4de4");
 
