@@ -5,10 +5,10 @@ import {
     ThrelsCookiePluginOptions
 } from "./types/index"
 
-import ThrelsCookieComponent from '@/components/Policies/CookieComponent.vue'
-import ThrelsPoliciesMenuComponent from '@/components/Policies/PoliciesMenuComponent.vue'
-import ThrelsPrivacyComponent from '@/components/Policies/PrivacyComponent.vue'
-import ThrelsTermsComponent from '@/components/Policies/TermsComponent.vue'
+import ThrelsCookieComponent from '@/components/ThrelsCookieComponent.vue'
+import ThrelsPoliciesMenuComponent from '@/components/ThrelsPoliciesMenuComponent.vue'
+import ThrelsPrivacyComponent from '@/components/ThrelsPrivacyComponent.vue'
+import ThrelsTermsComponent from '@/components/ThrelsTermsComponent.vue'
 
 import { Store } from 'vuex'
 import CookieStore from '@/store/CookieStore'
@@ -39,6 +39,8 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
 
         this.options = getOptions(options as ThrelsCookiePluginOptions)
 
+        console.log(this.options);
+
         if (!this.options || !this.options.store) {
             throw new Error('Please initialise plugin with a Vuex store.')
         } else {
@@ -65,8 +67,9 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
     }
 
     registerComponents() {
-        this.vue.component('threls-cookie-component', ThrelsCookieComponent)
+        console.log('components');
         this.vue.component('threls-policies-menu-component', ThrelsPoliciesMenuComponent)
+        this.vue.component('threls-cookie-component', ThrelsCookieComponent)
         this.vue.component('threls-privacy-component', ThrelsPrivacyComponent)
         this.vue.component('threls-terms-component', ThrelsTermsComponent)
 
@@ -85,6 +88,7 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
     }
 
     inject() {
+        console.log('inject', this.options);
         const injections: { [key: string]: any } = {
             'threlsCookie': new ThrelsCookieModule(this.options, this.store),
         }
@@ -104,5 +108,7 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
             this.options.inject(key, module)
         }
     }
+
+    [key: string]: any;
 }
 

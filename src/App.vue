@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div>
+      <threls-policies-menu-component />
       <threls-cookie-component />
     </div>
   </div>
@@ -12,7 +13,6 @@ import { Component, Vue } from 'vue-property-decorator';
 
 @Component({
   components: {
-
   },
 })
 export default class App extends Vue {

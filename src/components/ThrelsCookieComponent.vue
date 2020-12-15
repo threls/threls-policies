@@ -1,6 +1,6 @@
 <template>
   <div>
-    <policy-menu />
+    <threls-policies-menu-component/>
     <section class="border-top py-5">
       <b-container>
         <b-row>
@@ -148,16 +148,14 @@
 </template>
 <script lang="ts">
 import { Vue, Component } from "nuxt-property-decorator";
-import PolicyMenu from "./PoliciesMenuComponent.vue";
 import CookieStore from "@/store/CookieStore";
 import { getModule } from "vuex-module-decorators";
 
 @Component({
   components: {
-    PolicyMenu
   }
 })
-export default class CookieComponent extends Vue {
+export default class ThrelsCookieComponent extends Vue {
 
   get cookieStore () {
     return getModule(CookieStore, this.$store)
