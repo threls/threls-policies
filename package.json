@@ -2,14 +2,14 @@
   "name": "threls-policies",
   "version": "0.1.4",
   "private": true,
-  "main": "./dist/ThrelsCookie.common.js",
-  "module": "./dist/ThrelsCookie.esm.js",
-  "browser": "./dist/ThrelsCookie.umd.min.js",
-  "unpkg": "./dist/ThrelsCookie.min.js",
+  "main": "./dist/ThrelsPolcies.common.js",
+  "module": "./dist/ThrelsPolcies.esm.js",
+  "browser": "./dist/ThrelsPolcies.umd.min.js",
+  "unpkg": "./dist/ThrelsPolcies.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target lib --name ThrelsCookie ./src/ThrelsCookie.ts",
+    "build-bundle": "vue-cli-service build --target lib --name ThrelsPolcies src/ThrelsPolicies.ts",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

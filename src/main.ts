@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import ThrelsCookie from './ThrelsCookie'
+import ThrelsPolicies from './ThrelsPolicies'
 import store from './store'
 import App from './App.vue'
 import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
@@ -14,7 +14,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.use(BootstrapVue)
 Vue.use(BootstrapVueIcons)
 
-Vue.use(ThrelsCookie, { store })
+Vue.use(ThrelsPolicies, { store })
 
 new Vue({
   store,

@@ -17,7 +17,7 @@ import { getOptions } from '@/helpers/helpers'
 import ThrelsCookieModule from "@/modules/ThrelsCookieModule";
 
 
-export default class ThrelsCookie implements ThrelsCookiePlugin {
+export default class ThrelsPolicies implements ThrelsCookiePlugin {
     private vue!: typeof _Vue
 
     options!: ThrelsCookiePluginOptions
@@ -28,7 +28,7 @@ export default class ThrelsCookie implements ThrelsCookiePlugin {
         Vue: typeof _Vue,
         options: Partial<ThrelsCookiePluginOptions> | undefined
     ): void {
-        (new ThrelsCookie()).install(Vue, options)
+        (new ThrelsPolicies()).install(Vue, options)
     }
 
     install(
