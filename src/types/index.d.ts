@@ -9,9 +9,7 @@ export interface ThrelsCookiePluginOptions {
     registerStores: boolean
     store?: Store<any>
     inject?: any
-}
 
-export interface ThrelsCookieParams {
     entity: string,
     website: string,
     effectiveDate: string,
@@ -23,7 +21,7 @@ export interface ThrelsCookieParams {
 
 
 export interface ThrelsCookiePlugin extends PluginObject<Partial<ThrelsCookiePluginOptions>> {
-    install: PluginFunction<Partial<ThrelsCookiePluginOptions> | ThrelsCookieParams>
+    install: PluginFunction<Partial<ThrelsCookiePluginOptions>>
 }
 
 export type Dictionary<T> = { [key: string]: T }

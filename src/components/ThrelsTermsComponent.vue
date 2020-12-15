@@ -166,9 +166,6 @@
 </template>
 <script lang="ts">
 import { Vue, Component } from "nuxt-property-decorator";
-// import PolicyMenu from "./ThrelsPoliciesMenuComponent.vue";
-import CookieStore from "@/store/CookieStore";
-import { getModule } from "vuex-module-decorators";
 
 @Component({
   name: 'threls-terms-component'

@@ -6158,12 +6158,12 @@ var ThrelsPrivacyComponent_component = normalizeComponent(
 )
 
 /* harmony default export */ var components_ThrelsPrivacyComponent = (ThrelsPrivacyComponent_component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=template&id=32ecdc3b&
-var ThrelsTermsComponentvue_type_template_id_32ecdc3b_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Terms of Service")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Terms")]),_c('p',[_vm._v("By accessing the website at "+_vm._s(_vm.params.website)+", you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Use License")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("Permission is granted to temporarily download one copy of the materials (information or software) on "+_vm._s(_vm.params.entity)+"'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: "),_c('ol',{attrs:{"type":"i"}},[_c('li',[_vm._v("modify or copy the materials;")]),_c('li',[_vm._v("use the materials for any commercial purpose, or for any public display (commercial or non-commercial); ")]),_c('li',[_vm._v("attempt to decompile or reverse engineer any software contained on "+_vm._s(_vm.params.entity)+"'s website;")]),_c('li',[_vm._v("remove any copyright or other proprietary notations from the materials; or")]),_c('li',[_vm._v("transfer the materials to another person or \"mirror\" the materials on any other server.")])])]),_c('li',[_vm._v("This license shall automatically terminate if you violate any of these restrictions and may be terminated by "+_vm._s(_vm.params.entity)+" at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Disclaimer")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("The materials on "+_vm._s(_vm.params.entity)+"'s website are provided on an 'as is' basis. "+_vm._s(_vm.params.entity)+" makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. ")]),_c('li',[_vm._v("Further, "+_vm._s(_vm.params.entity)+" does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("4. Limitations")]),_c('p',[_vm._v("In no event shall "+_vm._s(_vm.params.entity)+" or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on "+_vm._s(_vm.params.entity)+"'s website, even if "+_vm._s(_vm.params.entity)+" or a "+_vm._s(_vm.params.entity)+" authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("5. Accuracy of materials")]),_c('p',[_vm._v("The materials appearing on "+_vm._s(_vm.params.entity)+"'s website could include technical, typographical, or photographic errors. "+_vm._s(_vm.params.entity)+" does not warrant that any of the materials on its website are accurate, complete or current. "+_vm._s(_vm.params.entity)+" may make changes to the materials contained on its website at any time without notice. However "+_vm._s(_vm.params.entity)+" does not make any commitment to update the materials.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("6. Links")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by "+_vm._s(_vm.params.entity)+" of the site. Use of any such linked website is at the user's own risk.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Modifications")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Governing Law")]),_c('p',[_vm._v("These terms and conditions are governed by and construed in accordance with the laws of Malta and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.")])])],1)],1)],1)],1)}
-var ThrelsTermsComponentvue_type_template_id_32ecdc3b_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"62a8f047-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=template&id=7aa6e2d4&
+var ThrelsTermsComponentvue_type_template_id_7aa6e2d4_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('threls-policies-menu-component'),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-center",attrs:{"md":"8","offset-md":"2"}},[_c('h3',[_vm._v("Terms of Service")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("1. Terms")]),_c('p',[_vm._v("By accessing the website at "+_vm._s(_vm.params.website)+", you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("2. Use License")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("Permission is granted to temporarily download one copy of the materials (information or software) on "+_vm._s(_vm.params.entity)+"'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: "),_c('ol',{attrs:{"type":"i"}},[_c('li',[_vm._v("modify or copy the materials;")]),_c('li',[_vm._v("use the materials for any commercial purpose, or for any public display (commercial or non-commercial); ")]),_c('li',[_vm._v("attempt to decompile or reverse engineer any software contained on "+_vm._s(_vm.params.entity)+"'s website;")]),_c('li',[_vm._v("remove any copyright or other proprietary notations from the materials; or")]),_c('li',[_vm._v("transfer the materials to another person or \"mirror\" the materials on any other server.")])])]),_c('li',[_vm._v("This license shall automatically terminate if you violate any of these restrictions and may be terminated by "+_vm._s(_vm.params.entity)+" at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("3. Disclaimer")]),_c('ol',{attrs:{"type":"a"}},[_c('li',[_vm._v("The materials on "+_vm._s(_vm.params.entity)+"'s website are provided on an 'as is' basis. "+_vm._s(_vm.params.entity)+" makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. ")]),_c('li',[_vm._v("Further, "+_vm._s(_vm.params.entity)+" does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site. ")])])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("4. Limitations")]),_c('p',[_vm._v("In no event shall "+_vm._s(_vm.params.entity)+" or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on "+_vm._s(_vm.params.entity)+"'s website, even if "+_vm._s(_vm.params.entity)+" or a "+_vm._s(_vm.params.entity)+" authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("5. Accuracy of materials")]),_c('p',[_vm._v("The materials appearing on "+_vm._s(_vm.params.entity)+"'s website could include technical, typographical, or photographic errors. "+_vm._s(_vm.params.entity)+" does not warrant that any of the materials on its website are accurate, complete or current. "+_vm._s(_vm.params.entity)+" may make changes to the materials contained on its website at any time without notice. However "+_vm._s(_vm.params.entity)+" does not make any commitment to update the materials.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("6. Links")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by "+_vm._s(_vm.params.entity)+" of the site. Use of any such linked website is at the user's own risk.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("7. Modifications")]),_c('p',[_vm._v(_vm._s(_vm.params.entity)+" may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.")])])],1)],1)],1),_c('section',{staticClass:"border-top py-5"},[_c('b-container',[_c('b-row',[_c('b-col',{staticClass:"text-justify",attrs:{"md":"8","offset-md":"2"}},[_c('h4',[_vm._v("8. Governing Law")]),_c('p',[_vm._v("These terms and conditions are governed by and construed in accordance with the laws of Malta and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.")])])],1)],1)],1)],1)}
+var ThrelsTermsComponentvue_type_template_id_7aa6e2d4_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=template&id=32ecdc3b&
+// CONCATENATED MODULE: ./src/components/ThrelsTermsComponent.vue?vue&type=template&id=7aa6e2d4&
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--13-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ThrelsTermsComponent.vue?vue&type=script&lang=ts&
 
@@ -6210,8 +6210,8 @@ ThrelsTermsComponentvue_type_script_lang_ts_ThrelsTermsComponent = __decorate([O
 
 var ThrelsTermsComponent_component = normalizeComponent(
   components_ThrelsTermsComponentvue_type_script_lang_ts_,
-  ThrelsTermsComponentvue_type_template_id_32ecdc3b_render,
-  ThrelsTermsComponentvue_type_template_id_32ecdc3b_staticRenderFns,
+  ThrelsTermsComponentvue_type_template_id_7aa6e2d4_render,
+  ThrelsTermsComponentvue_type_template_id_7aa6e2d4_staticRenderFns,
   false,
   null,
   null,
@@ -6220,603 +6220,6 @@ var ThrelsTermsComponent_component = normalizeComponent(
 )
 
 /* harmony default export */ var components_ThrelsTermsComponent = (ThrelsTermsComponent_component.exports);
-// CONCATENATED MODULE: ./node_modules/vuex-module-decorators/dist/esm/index.js
-/**
- * Takes the properties on object from parameter source and adds them to the object
- * parameter target
- * @param {object} target  Object to have properties copied onto from y
- * @param {object} source  Object with properties to be copied to x
- */
-function addPropertiesToObject(target, source) {
-    var _loop_1 = function (k) {
-        Object.defineProperty(target, k, {
-            get: function () { return source[k]; }
-        });
-    };
-    for (var _i = 0, _a = Object.keys(source || {}); _i < _a.length; _i++) {
-        var k = _a[_i];
-        _loop_1(k);
-    }
-}
-/**
- * Returns a namespaced name of the module to be used as a store getter
- * @param module
- */
-function getModuleName(module) {
-    if (!module._vmdModuleName) {
-        throw new Error("ERR_GET_MODULE_NAME : Could not get module accessor.\n      Make sure your module has name, we can't make accessors for unnamed modules\n      i.e. @Module({ name: 'something' })");
-    }
-    return "vuexModuleDecorators/" + module._vmdModuleName;
-}
-
-var VuexModule = /** @class */ (function () {
-    function VuexModule(module) {
-        this.actions = module.actions;
-        this.mutations = module.mutations;
-        this.state = module.state;
-        this.getters = module.getters;
-        this.namespaced = module.namespaced;
-        this.modules = module.modules;
-    }
-    return VuexModule;
-}());
-function getModule(moduleClass, store) {
-    var moduleName = getModuleName(moduleClass);
-    if (store && store.getters[moduleName]) {
-        return store.getters[moduleName];
-    }
-    else if (moduleClass._statics) {
-        return moduleClass._statics;
-    }
-    var genStatic = moduleClass._genStatic;
-    if (!genStatic) {
-        throw new Error("ERR_GET_MODULE_NO_STATICS : Could not get module accessor.\n      Make sure your module has name, we can't make accessors for unnamed modules\n      i.e. @Module({ name: 'something' })");
-    }
-    var storeModule = genStatic(store);
-    if (store) {
-        store.getters[moduleName] = storeModule;
-    }
-    else {
-        moduleClass._statics = storeModule;
-    }
-    return storeModule;
-}
-
-var reservedKeys = ['actions', 'getters', 'mutations', 'modules', 'state', 'namespaced', 'commit'];
-function stateFactory(module) {
-    var state = new module.prototype.constructor({});
-    var s = {};
-    Object.keys(state).forEach(function (key) {
-        if (reservedKeys.indexOf(key) !== -1) {
-            if (typeof state[key] !== 'undefined') {
-                throw new Error("ERR_RESERVED_STATE_KEY_USED: You cannot use the following\n        ['actions', 'getters', 'mutations', 'modules', 'state', 'namespaced', 'commit']\n        as fields in your module. These are reserved as they have special purpose in Vuex");
-            }
-            return;
-        }
-        if (state.hasOwnProperty(key)) {
-            if (typeof state[key] !== 'function') {
-                s[key] = state[key];
-            }
-        }
-    });
-    return s;
-}
-
-/*! *****************************************************************************
-Copyright (c) Microsoft Corporation. All rights reserved.
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use
-this file except in compliance with the License. You may obtain a copy of the
-License at http://www.apache.org/licenses/LICENSE-2.0
-
-THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
-WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
-MERCHANTABLITY OR NON-INFRINGEMENT.
-
-See the Apache Version 2.0 License for specific language governing permissions
-and limitations under the License.
-***************************************************************************** */
-
-function esm_awaiter(thisArg, _arguments, P, generator) {
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-}
-
-function esm_generator(thisArg, body) {
-    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
-    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
-    function verb(n) { return function (v) { return step([n, v]); }; }
-    function step(op) {
-        if (f) throw new TypeError("Generator is already executing.");
-        while (_) try {
-            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
-            if (y = 0, t) op = [op[0] & 2, t.value];
-            switch (op[0]) {
-                case 0: case 1: t = op; break;
-                case 4: _.label++; return { value: op[1], done: false };
-                case 5: _.label++; y = op[1]; op = [0]; continue;
-                case 7: op = _.ops.pop(); _.trys.pop(); continue;
-                default:
-                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
-                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
-                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
-                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
-                    if (t[2]) _.ops.pop();
-                    _.trys.pop(); continue;
-            }
-            op = body.call(thisArg, _);
-        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
-        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
-    }
-}
-
-function esm_spreadArrays() {
-    for (var s = 0, i = 0, il = arguments.length; i < il; i++) s += arguments[i].length;
-    for (var r = Array(s), k = 0, i = 0; i < il; i++)
-        for (var a = arguments[i], j = 0, jl = a.length; j < jl; j++, k++)
-            r[k] = a[j];
-    return r;
-}
-
-function staticStateGenerator(module, modOpt, statics) {
-    var state = modOpt.stateFactory ? module.state() : module.state;
-    Object.keys(state).forEach(function (key) {
-        if (state.hasOwnProperty(key)) {
-            // If not undefined or function means it is a state value
-            if (['undefined', 'function'].indexOf(typeof state[key]) === -1) {
-                Object.defineProperty(statics, key, {
-                    get: function () {
-                        return statics.store.state[modOpt.name][key];
-                    }
-                });
-            }
-        }
-    });
-}
-function staticGetterGenerator(module, modOpt, statics) {
-    Object.keys(module.getters).forEach(function (key) {
-        if (module.namespaced) {
-            Object.defineProperty(statics, key, {
-                get: function () {
-                    return statics.store.getters[modOpt.name + "/" + key];
-                }
-            });
-        }
-        else {
-            Object.defineProperty(statics, key, {
-                get: function () {
-                    return statics.store.getters[key];
-                }
-            });
-        }
-    });
-}
-function staticMutationGenerator(module, modOpt, statics) {
-    Object.keys(module.mutations).forEach(function (key) {
-        if (module.namespaced) {
-            statics[key] = function () {
-                var _a;
-                var args = [];
-                for (var _i = 0; _i < arguments.length; _i++) {
-                    args[_i] = arguments[_i];
-                }
-                (_a = statics.store).commit.apply(_a, esm_spreadArrays([modOpt.name + "/" + key], args));
-            };
-        }
-        else {
-            statics[key] = function () {
-                var _a;
-                var args = [];
-                for (var _i = 0; _i < arguments.length; _i++) {
-                    args[_i] = arguments[_i];
-                }
-                (_a = statics.store).commit.apply(_a, esm_spreadArrays([key], args));
-            };
-        }
-    });
-}
-function staticActionGenerators(module, modOpt, statics) {
-    Object.keys(module.actions).forEach(function (key) {
-        if (module.namespaced) {
-            statics[key] = function () {
-                var args = [];
-                for (var _i = 0; _i < arguments.length; _i++) {
-                    args[_i] = arguments[_i];
-                }
-                return esm_awaiter(this, void 0, void 0, function () {
-                    var _a;
-                    return esm_generator(this, function (_b) {
-                        return [2 /*return*/, (_a = statics.store).dispatch.apply(_a, esm_spreadArrays([modOpt.name + "/" + key], args))];
-                    });
-                });
-            };
-        }
-        else {
-            statics[key] = function () {
-                var args = [];
-                for (var _i = 0; _i < arguments.length; _i++) {
-                    args[_i] = arguments[_i];
-                }
-                return esm_awaiter(this, void 0, void 0, function () {
-                    var _a;
-                    return esm_generator(this, function (_b) {
-                        return [2 /*return*/, (_a = statics.store).dispatch.apply(_a, esm_spreadArrays([key], args))];
-                    });
-                });
-            };
-        }
-    });
-}
-
-function registerDynamicModule(module, modOpt) {
-    if (!modOpt.name) {
-        throw new Error('Name of module not provided in decorator options');
-    }
-    if (!modOpt.store) {
-        throw new Error('Store not provided in decorator options when using dynamic option');
-    }
-    modOpt.store.registerModule(modOpt.name, // TODO: Handle nested modules too in future
-    module, { preserveState: modOpt.preserveState || false });
-}
-function moduleDecoratorFactory(moduleOptions) {
-    return function (constructor) {
-        var module = constructor;
-        var stateFactory$1 = function () { return stateFactory(module); };
-        if (!module.state) {
-            module.state = moduleOptions && moduleOptions.stateFactory ? stateFactory$1 : stateFactory$1();
-        }
-        if (!module.getters) {
-            module.getters = {};
-        }
-        if (!module.namespaced) {
-            module.namespaced = moduleOptions && moduleOptions.namespaced;
-        }
-        Object.getOwnPropertyNames(module.prototype).forEach(function (funcName) {
-            var descriptor = Object.getOwnPropertyDescriptor(module.prototype, funcName);
-            if (descriptor.get && module.getters) {
-                module.getters[funcName] = function (state, getters, rootState, rootGetters) {
-                    var thisObj = { context: { state: state, getters: getters, rootState: rootState, rootGetters: rootGetters } };
-                    addPropertiesToObject(thisObj, state);
-                    addPropertiesToObject(thisObj, getters);
-                    var got = descriptor.get.call(thisObj);
-                    return got;
-                };
-            }
-        });
-        var modOpt = moduleOptions;
-        if (modOpt.name) {
-            Object.defineProperty(constructor, '_genStatic', {
-                value: function (store) {
-                    var statics = { store: store || modOpt.store };
-                    if (!statics.store) {
-                        throw new Error("ERR_STORE_NOT_PROVIDED: To use getModule(), either the module\n            should be decorated with store in decorator, i.e. @Module({store: store}) or\n            store should be passed when calling getModule(), i.e. getModule(MyModule, this.$store)");
-                    }
-                    // ===========  For statics ==============
-                    // ------ state -------
-                    staticStateGenerator(module, modOpt, statics);
-                    // ------- getters -------
-                    if (module.getters) {
-                        staticGetterGenerator(module, modOpt, statics);
-                    }
-                    // -------- mutations --------
-                    if (module.mutations) {
-                        staticMutationGenerator(module, modOpt, statics);
-                    }
-                    // -------- actions ---------
-                    if (module.actions) {
-                        staticActionGenerators(module, modOpt, statics);
-                    }
-                    return statics;
-                }
-            });
-            Object.defineProperty(constructor, '_vmdModuleName', {
-                value: modOpt.name
-            });
-        }
-        if (modOpt.dynamic) {
-            registerDynamicModule(module, modOpt);
-        }
-        return constructor;
-    };
-}
-function Module(modOrOpt) {
-    if (typeof modOrOpt === 'function') {
-        /*
-         * @Module decorator called without options (directly on the class definition)
-         */
-        moduleDecoratorFactory({})(modOrOpt);
-    }
-    else {
-        /*
-         * @Module({...}) decorator called with options
-         */
-        return moduleDecoratorFactory(modOrOpt);
-    }
-}
-
-var config = {};
-
-function actionDecoratorFactory(params) {
-    var _a = params || {}, _b = _a.commit, commit = _b === void 0 ? undefined : _b, _c = _a.rawError, rawError = _c === void 0 ? !!config.rawError : _c, _d = _a.root, root = _d === void 0 ? false : _d;
-    return function (target, key, descriptor) {
-        var module = target.constructor;
-        if (!module.hasOwnProperty('actions')) {
-            module.actions = Object.assign({}, module.actions);
-        }
-        var actionFunction = descriptor.value;
-        var action = function (context, payload) {
-            return esm_awaiter(this, void 0, void 0, function () {
-                var actionPayload, moduleName, moduleAccessor, thisObj, e_1;
-                return esm_generator(this, function (_a) {
-                    switch (_a.label) {
-                        case 0:
-                            _a.trys.push([0, 5, , 6]);
-                            actionPayload = null;
-                            if (!module._genStatic) return [3 /*break*/, 2];
-                            moduleName = getModuleName(module);
-                            moduleAccessor = context.rootGetters[moduleName]
-                                ? context.rootGetters[moduleName]
-                                : getModule(module);
-                            moduleAccessor.context = context;
-                            return [4 /*yield*/, actionFunction.call(moduleAccessor, payload)];
-                        case 1:
-                            actionPayload = _a.sent();
-                            return [3 /*break*/, 4];
-                        case 2:
-                            thisObj = { context: context };
-                            addPropertiesToObject(thisObj, context.state);
-                            addPropertiesToObject(thisObj, context.getters);
-                            return [4 /*yield*/, actionFunction.call(thisObj, payload)];
-                        case 3:
-                            actionPayload = _a.sent();
-                            _a.label = 4;
-                        case 4:
-                            if (commit) {
-                                context.commit(commit, actionPayload);
-                            }
-                            return [2 /*return*/, actionPayload];
-                        case 5:
-                            e_1 = _a.sent();
-                            throw rawError
-                                ? e_1
-                                : new Error('ERR_ACTION_ACCESS_UNDEFINED: Are you trying to access ' +
-                                    'this.someMutation() or this.someGetter inside an @Action? \n' +
-                                    'That works only in dynamic modules. \n' +
-                                    'If not dynamic use this.context.commit("mutationName", payload) ' +
-                                    'and this.context.getters["getterName"]' +
-                                    '\n' +
-                                    new Error("Could not perform action " + key.toString()).stack +
-                                    '\n' +
-                                    e_1.stack);
-                        case 6: return [2 /*return*/];
-                    }
-                });
-            });
-        };
-        module.actions[key] = root ? { root: root, handler: action } : action;
-    };
-}
-/**
- * The @Action decorator turns an async function into an Vuex action
- *
- * @param targetOrParams the module class
- * @param key name of the action
- * @param descriptor the action function descriptor
- * @constructor
- */
-function Action(targetOrParams, key, descriptor) {
-    if (!key && !descriptor) {
-        /*
-         * This is the case when `targetOrParams` is params.
-         * i.e. when used as -
-         * <pre>
-            @Action({commit: 'incrCount'})
-            async getCountDelta() {
-              return 5
-            }
-         * </pre>
-         */
-        return actionDecoratorFactory(targetOrParams);
-    }
-    else {
-        /*
-         * This is the case when @Action is called on action function
-         * without any params
-         * <pre>
-         *   @Action
-         *   async doSomething() {
-         *    ...
-         *   }
-         * </pre>
-         */
-        actionDecoratorFactory()(targetOrParams, key, descriptor);
-    }
-}
-
-function Mutation(target, key, descriptor) {
-    var module = target.constructor;
-    if (!module.hasOwnProperty('mutations')) {
-        module.mutations = Object.assign({}, module.mutations);
-    }
-    var mutationFunction = descriptor.value;
-    var mutation = function (state, payload) {
-        mutationFunction.call(state, payload);
-    };
-    module.mutations[key] = mutation;
-}
-
-function mutationActionDecoratorFactory(params) {
-    return function (target, key, descriptor) {
-        var module = target.constructor;
-        if (!module.hasOwnProperty('mutations')) {
-            module.mutations = Object.assign({}, module.mutations);
-        }
-        if (!module.hasOwnProperty('actions')) {
-            module.actions = Object.assign({}, module.actions);
-        }
-        var mutactFunction = descriptor.value;
-        var action = function (context, payload) {
-            return esm_awaiter(this, void 0, void 0, function () {
-                var actionPayload, e_1;
-                return esm_generator(this, function (_a) {
-                    switch (_a.label) {
-                        case 0:
-                            _a.trys.push([0, 2, , 3]);
-                            return [4 /*yield*/, mutactFunction.call(context, payload)];
-                        case 1:
-                            actionPayload = _a.sent();
-                            context.commit(key, actionPayload);
-                            return [3 /*break*/, 3];
-                        case 2:
-                            e_1 = _a.sent();
-                            if (params.rawError) {
-                                throw e_1;
-                            }
-                            else {
-                                console.error('Could not perform action ' + key.toString());
-                                console.error(e_1);
-                                return [2 /*return*/, Promise.reject(e_1)];
-                            }
-                        case 3: return [2 /*return*/];
-                    }
-                });
-            });
-        };
-        var mutation = function (state, payload) {
-            if (!params.mutate) {
-                params.mutate = Object.keys(payload);
-            }
-            for (var _i = 0, _a = params.mutate; _i < _a.length; _i++) {
-                var stateItem = _a[_i];
-                if (state.hasOwnProperty(stateItem) && payload.hasOwnProperty(stateItem)) {
-                    state[stateItem] = payload[stateItem];
-                }
-                else {
-                    throw new Error("ERR_MUTATE_PARAMS_NOT_IN_PAYLOAD\n          In @MutationAction, mutate: ['a', 'b', ...] array keys must\n          match with return type = {a: {}, b: {}, ...} and must\n          also be in state.");
-                }
-            }
-        };
-        module.actions[key] = params.root ? { root: true, handler: action } : action;
-        module.mutations[key] = mutation;
-    };
-}
-/**
- * The @MutationAction decorator turns this into an action that further calls a mutation
- * Both the action and the mutation are generated for you
- *
- * @param paramsOrTarget the params or the target class
- * @param key the name of the function
- * @param descriptor the function body
- * @constructor
- */
-function MutationAction(paramsOrTarget, key, descriptor) {
-    if (!key && !descriptor) {
-        /*
-         * This is the case when `paramsOrTarget` is params.
-         * i.e. when used as -
-         * <pre>
-            @MutationAction({mutate: ['incrCount']})
-            async getCountDelta() {
-              return {incrCount: 5}
-            }
-         * </pre>
-         */
-        return mutationActionDecoratorFactory(paramsOrTarget);
-    }
-    else {
-        /*
-         * This is the case when `paramsOrTarget` is target.
-         * i.e. when used as -
-         * <pre>
-            @MutationAction
-            async getCountDelta() {
-              return {incrCount: 5}
-            }
-         * </pre>
-         */
-        mutationActionDecoratorFactory({})(paramsOrTarget, key, descriptor);
-    }
-}
-
-
-//# sourceMappingURL=index.js.map
-
-// CONCATENATED MODULE: ./src/store/storeModule.ts
-
-
-
-
-var storeModule_StoreModule = /*#__PURE__*/function (_VuexModule) {
-  _inherits(StoreModule, _VuexModule);
-
-  var _super = _createSuper(StoreModule);
-
-  function StoreModule() {
-    _classCallCheck(this, StoreModule);
-
-    return _super.apply(this, arguments);
-  }
-
-  return StoreModule;
-}(VuexModule);
-// CONCATENATED MODULE: ./src/store/CookieStore.ts
-
-
-
-
-
-
-
-
-var CookieStore_CookieStore = /*#__PURE__*/function (_StoreModule) {
-  _inherits(CookieStore, _StoreModule);
-
-  var _super = _createSuper(CookieStore);
-
-  function CookieStore() {
-    var _this;
-
-    _classCallCheck(this, CookieStore);
-
-    _this = _super.apply(this, arguments);
-    _this.entity = "Entity Name";
-    _this.website = "https://www.website.com";
-    _this.effectiveDate = "14 December 2020";
-    _this.dataControllerName = 'Data Controller';
-    _this.dataControllerEmail = 'info@website.com';
-    _this.dataProtectionOfficerName = 'Data Controller';
-    _this.dataProtectionOfficerEmail = 'info@website.com';
-    return _this;
-  }
-
-  _createClass(CookieStore, [{
-    key: "SET_OPTIONS",
-    value: function SET_OPTIONS(options) {
-      this.entity = options.entity;
-      this.website = options.website;
-      this.effectiveDate = options.effectiveDate;
-      this.dataControllerName = options.dataControllerName;
-      this.dataControllerEmail = options.dataControllerEmail;
-      this.dataProtectionOfficerName = options.dataProtectionOfficerName;
-      this.dataProtectionOfficerEmail = options.dataProtectionOfficerEmail;
-    }
-  }]);
-
-  return CookieStore;
-}(storeModule_StoreModule);
-
-__decorate([Mutation], CookieStore_CookieStore.prototype, "SET_OPTIONS", null);
-
-CookieStore_CookieStore = __decorate([Module({
-  name: 'threls-cookie',
-  stateFactory: true,
-  namespaced: true
-})], CookieStore_CookieStore);
-/* harmony default export */ var store_CookieStore = (CookieStore_CookieStore);
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.filter.js
 var es_array_filter = __webpack_require__("4de4");
 
@@ -6897,13 +6300,18 @@ function getOptions(options) {
     registerComponents: true,
     registerDirectives: true,
     registerMixins: true,
-    registerStores: true
+    registerStores: true,
+    entity: '',
+    website: '',
+    effectiveDate: '',
+    dataControllerName: '',
+    dataControllerEmail: '',
+    dataProtectionOfficerName: '',
+    dataProtectionOfficerEmail: ''
   };
   return _objectSpread2(_objectSpread2({}, defaults), options);
 }
 // CONCATENATED MODULE: ./src/modules/ThrelsCookieModule.ts
-
-
 
 
 
@@ -6912,26 +6320,23 @@ var ThrelsCookieModule_ThrelsCookieModule = /*#__PURE__*/function () {
     _classCallCheck(this, ThrelsCookieModule);
 
     this.options = options;
-    this.stores = {
-      cookie: getModule(store_CookieStore, store)
-    };
-    this.stores.cookie.SET_OPTIONS(options);
+    this.stores = {};
   }
 
   _createClass(ThrelsCookieModule, [{
     key: "params",
     get: function get() {
       return {
-        'entity': this.stores.cookie.entity,
-        'website': this.stores.cookie.website,
-        'effectiveDate': this.stores.cookie.effectiveDate,
+        'entity': this.options.entity,
+        'website': this.options.website,
+        'effectiveDate': this.options.effectiveDate,
         'dataController': {
-          'name': this.stores.cookie.dataControllerName,
-          'email': this.stores.cookie.dataControllerEmail
+          'name': this.options.dataControllerName,
+          'email': this.options.dataControllerEmail
         },
         'dataProtection': {
-          'name': this.stores.cookie.dataProtectionOfficerName,
-          'email': this.stores.cookie.dataProtectionOfficerEmail
+          'name': this.options.dataProtectionOfficerName,
+          'email': this.options.dataProtectionOfficerEmail
         }
       };
     }
@@ -6942,7 +6347,6 @@ var ThrelsCookieModule_ThrelsCookieModule = /*#__PURE__*/function () {
 
 
 // CONCATENATED MODULE: ./src/ThrelsPolicies.ts
-
 
 
 
@@ -7007,9 +6411,7 @@ var ThrelsPolicies_ThrelsPolicies = /*#__PURE__*/function () {
     value: function registerMixins() {}
   }, {
     key: "registerStores",
-    value: function registerStores() {
-      this.store.registerModule('threls-cookie', store_CookieStore);
-    }
+    value: function registerStores() {}
   }, {
     key: "inject",
     value: function inject() {

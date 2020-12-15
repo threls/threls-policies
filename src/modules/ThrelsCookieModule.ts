@@ -1,24 +1,19 @@
 import { Store } from 'vuex/types'
 
-import {
-    ThrelsCookiePluginOptions,
-    RouterQuery, ThrelsCookieParams
-} from '@/types'
-import { getModule } from 'vuex-module-decorators'
-import CookieStore from '@/store/CookieStore'
+import { ThrelsCookiePluginOptions } from '@/types'
 
 
 export default class ThrelsCookieModule {
-    private options: ThrelsCookieParams
+    private options: ThrelsCookiePluginOptions
 
-    private stores: { cookie: CookieStore }
+    private stores: {}
 
     constructor(
-        options: ThrelsCookieParams,
+        options: ThrelsCookiePluginOptions,
         store: Store<any>
     ) {
         this.options = options
-        this.stores = { cookie: getModule(CookieStore, store) }
+        this.stores = {}
 
     }
 

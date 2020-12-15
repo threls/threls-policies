@@ -1,6 +1,5 @@
 import { Vue as _Vue } from 'vue-property-decorator'
 import {
-    ThrelsCookieParams,
     ThrelsCookiePlugin,
     ThrelsCookiePluginOptions
 } from "./types/index"
@@ -11,7 +10,6 @@ import ThrelsPrivacyComponent from '@/components/ThrelsPrivacyComponent.vue'
 import ThrelsTermsComponent from '@/components/ThrelsTermsComponent.vue'
 
 import { Store } from 'vuex'
-import CookieStore from '@/store/CookieStore'
 
 import { getOptions } from '@/helpers/helpers'
 import ThrelsCookieModule from "@/modules/ThrelsCookieModule";
@@ -33,7 +31,7 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
 
     install(
         Vue: typeof _Vue,
-        options: Partial<ThrelsCookiePluginOptions | ThrelsCookieParams> | undefined
+        options: Partial<ThrelsCookiePluginOptions> | undefined
     ): void {
         this.vue = _Vue
 
@@ -81,7 +79,7 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
     }
 
     registerStores() {
-        this.store.registerModule('threls-cookie', CookieStore)
+
     }
 
     inject() {

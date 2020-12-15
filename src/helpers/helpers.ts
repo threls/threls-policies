@@ -5,7 +5,14 @@ export function getOptions(options: Partial<ThrelsCookiePluginOptions> | undefin
     registerComponents: true,
     registerDirectives: true,
     registerMixins: true,
-    registerStores: true
+    registerStores: true,
+    entity: '',
+    website: '',
+    effectiveDate: '',
+    dataControllerName: '',
+    dataControllerEmail: '',
+    dataProtectionOfficerName: '',
+    dataProtectionOfficerEmail: '',
   }
 
   return {
