@@ -8,9 +8,9 @@
             <h3>Privacy Policy</h3>
             <p>
               Your privacy is important to us. It is
-              {{ entity }}'s policy to respect your privacy
+              {{ params.entity }}'s policy to respect your privacy
               regarding any information we may collect from you
-              across our website, {{ website }}, and other sites
+              across our website, {{ params.website }}, and other sites
               we own and operate.
             </p>
           </b-col>
@@ -441,15 +441,15 @@
               you to re-consent to the amended privacy policy.
             </p>
             <p>
-              <strong>{{ entity }} Data Controller</strong><br />
-              {{ dataController.name }}<br />
-              {{ dataController.email }}
+              <strong>{{ params.entity }} Data Controller</strong><br />
+              {{ params.dataController.name }}<br />
+              {{ params.dataController.email }}
             </p>
             <p>
-              <strong>{{ entity }} Data Protection Officer</strong
+              <strong>{{ params.entity }} Data Protection Officer</strong
               ><br />
-              {{ dataProtectionOfficer.name }}<br />
-              {{ dataProtectionOfficer.email }}
+              {{ params.dataProtection.name }}<br />
+              {{ params.dataProtection.email }}
             </p>
           </b-col>
         </b-row>
@@ -460,7 +460,7 @@
         <b-row>
           <b-col md="8" offset-md="2" class="text-center">
             <p>
-              This policy is effective as of {{ effectiveDate }}.
+              This policy is effective as of {{ params.effectiveDate }}.
             </p>
           </b-col>
         </b-row>
@@ -470,38 +470,16 @@
 </template>
 <script lang="ts">
 import { Vue, Component } from "nuxt-property-decorator";
-import PolicyMenu from "./ThrelsPoliciesMenuComponent.vue";
-import CookieStore from "@/store/CookieStore";
-import { getModule } from "vuex-module-decorators";
 
 @Component({
   name: 'threls-privacy-component'
 })
 export default class ThrelsPrivacyComponent extends Vue {
 
-  get cookieStore() {
-    return getModule(CookieStore, this.$store)
+
+  get params() {
+    return this.$threlsCookie.params
   }
 
-  get website() {
-    return this.cookieStore.website
-  }
-
-  get entity() {
-    return 'sss';
-    return this.cookieStore.entity
-  }
-
-  get effectiveDate() {
-    return this.cookieStore.effectiveDate
-  }
-
-  get dataController() {
-    return { name: this.cookieStore.dataControllerName, email: this.cookieStore.dataControllerEmail }
-  }
-
-  get dataProtectionOfficer() {
-    return { name: this.cookieStore.dataProtectionOfficerName, email: this.cookieStore.dataProtectionOfficerEmail }
-  }
 }
 </script>

@@ -17,9 +17,25 @@ export default class ThrelsCookieModule {
         options: ThrelsCookiePluginOptions | ThrelsCookieParams,
         store: Store<any>
     ) {
-        console.log('cookie modue',options);
+        console.log('cookie modue', options);
         this.options = options
         this.stores = { cookie: getModule(CookieStore, store) }
         this.stores.cookie.SET_OPTIONS(options as ThrelsCookieParams)
+    }
+
+    get params() {
+        return {
+            'entity': this.stores.cookie.entity,
+            'website': this.stores.cookie.website,
+            'effectiveDate': this.stores.cookie.effectiveDate,
+            'dataController': {
+                'name': this.stores.cookie.dataControllerName,
+                'email': this.stores.cookie.dataControllerEmail
+            },
+            'dataProtection': {
+                'name': this.stores.cookie.dataProtectionOfficerName,
+                'email': this.stores.cookie.dataProtectionOfficerEmail
+            }
+        }
     }
 }

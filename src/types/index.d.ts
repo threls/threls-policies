@@ -1,5 +1,6 @@
 import Vue, { PluginFunction, PluginObject } from 'vue'
 import { Store } from 'vuex'
+import ThrelsCookieModule from "@/modules/ThrelsCookieModule";
 
 export interface ThrelsCookiePluginOptions {
     registerComponents: boolean
@@ -28,31 +29,33 @@ export interface ThrelsCookiePlugin extends PluginObject<Partial<ThrelsCookiePlu
 export type Dictionary<T> = { [key: string]: T }
 export type RouterQuery = Dictionary<string | (string | null)[]>
 
-
 declare module '@nuxt/vue-app' {
     interface Context {
+        $threlsCookie: ThrelsCookieModule
     }
 
     interface NuxtAppOptions {
+        $threlsCookie: ThrelsCookieModule
     }
 }
 
 // Nuxt 2.9+
 declare module '@nuxt/types' {
     interface Context {
-
+        $threlsCookie: ThrelsCookieModule
     }
 
     interface NuxtAppOptions {
-
+        $threlsCookie: ThrelsCookieModule
     }
 }
 
 declare module 'vue/types/vue' {
     interface Vue {
-
+        $threlsCookie: ThrelsCookieModule
     }
 }
+
 
 export declare const ThrelsCookie: ThrelsCookiePlugin
 export default ThrelsCookie
