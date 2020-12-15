@@ -1,6 +1,6 @@
 <template>
   <div>
-    <threls-policies-menu-component/>
+    <threls-policies-menu-component />
     <section class="border-top py-5">
       <b-container>
         <b-row>
@@ -17,28 +17,13 @@
               they are not covered by our policy.
             </p>
 
-            <div
-                v-if="consented"
-                class="mt-5">You have given us consent to use cookies.
-            </div>
-            <div
-                v-if="!consented"
-                class="mt-5">You have not given us the consent to use cookies
-            </div>
             <div class="button-container mt-3">
-              <!--              <b-button-->
-              <!--                v-if="!consented"-->
-              <!--                size="md"-->
-              <!--                variant="primary"-->
-              <!--                @click="consent">Accept Cookies-->
-              <!--              </b-button>-->
-              <!--              <b-button-->
-              <!--                v-if="consented"-->
-              <!--                size="md"-->
-              <!--                variant="outline-primary"-->
-              <!--                @click="forbid">Disallow Cookies-->
-              <!--              </b-button>-->
-              <b style="size: 40px; color:red;">to replace here</b>
+              <b-button
+                  size="md"
+                  variant="primary"
+                  @click="manageCookies">Manage Cookies
+              </b-button>
+
             </div>
           </b-col>
         </b-row>
@@ -147,18 +132,20 @@
   </div>
 </template>
 <script lang="ts">
-import { Vue, Component } from "nuxt-property-decorator";
-import CookieStore from "@/store/CookieStore";
-import { getModule } from "vuex-module-decorators";
+import { Vue, Component, Emit } from "nuxt-property-decorator";
 
 @Component({
-  components: {
-  }
+  components: {}
 })
 export default class ThrelsCookieComponent extends Vue {
 
   get params() {
     return this.$threlsCookie.params
+  }
+
+  @Emit('manage')
+  manageCookies(){
+
   }
 }
 </script>

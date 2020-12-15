@@ -17,7 +17,6 @@ export default class ThrelsCookieModule {
         options: ThrelsCookiePluginOptions | ThrelsCookieParams,
         store: Store<any>
     ) {
-        console.log('cookie modue', options);
         this.options = options
         this.stores = { cookie: getModule(CookieStore, store) }
         this.stores.cookie.SET_OPTIONS(options as ThrelsCookieParams)

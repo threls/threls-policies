@@ -39,8 +39,6 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
 
         this.options = getOptions(options as ThrelsCookiePluginOptions)
 
-        console.log(this.options);
-
         if (!this.options || !this.options.store) {
             throw new Error('Please initialise plugin with a Vuex store.')
         } else {
@@ -87,7 +85,6 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
     }
 
     inject() {
-        console.log('inject', this.options);
         const injections: { [key: string]: any } = {
             'threlsCookie': new ThrelsCookieModule(this.options, this.store),
         }

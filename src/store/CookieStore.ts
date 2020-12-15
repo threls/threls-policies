@@ -23,7 +23,6 @@ export default class CookieStore extends StoreModule {
 
     @Mutation
     SET_OPTIONS(options: ThrelsCookieParams) {
-        console.log('store- opt', options);
         this.entity = options.entity
         this.website = options.website
         this.effectiveDate = options.effectiveDate
