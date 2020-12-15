@@ -67,7 +67,6 @@ export default class ThrelsPolicies implements ThrelsCookiePlugin {
     }
 
     registerComponents() {
-        console.log('components');
         this.vue.component('threls-policies-menu-component', ThrelsPoliciesMenuComponent)
         this.vue.component('threls-cookie-component', ThrelsCookieComponent)
         this.vue.component('threls-privacy-component', ThrelsPrivacyComponent)

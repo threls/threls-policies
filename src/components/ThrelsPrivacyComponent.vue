@@ -488,6 +488,7 @@ export default class ThrelsPrivacyComponent extends Vue {
   }
 
   get entity() {
+    return 'sss';
     return this.cookieStore.entity
   }
 
