@@ -9,31 +9,31 @@ import CookieStore from '@/store/CookieStore'
 
 
 export default class ThrelsCookieModule {
-    private options: ThrelsCookiePluginOptions | ThrelsCookieParams
+    private options: ThrelsCookieParams
 
     private stores: { cookie: CookieStore }
 
     constructor(
-        options: ThrelsCookiePluginOptions | ThrelsCookieParams,
+        options: ThrelsCookieParams,
         store: Store<any>
     ) {
         this.options = options
         this.stores = { cookie: getModule(CookieStore, store) }
-        this.stores.cookie.SET_OPTIONS(options as ThrelsCookieParams)
+
     }
 
     get params() {
         return {
-            'entity': this.stores.cookie.entity,
-            'website': this.stores.cookie.website,
-            'effectiveDate': this.stores.cookie.effectiveDate,
+            'entity': this.options.entity,
+            'website': this.options.website,
+            'effectiveDate': this.options.effectiveDate,
             'dataController': {
-                'name': this.stores.cookie.dataControllerName,
-                'email': this.stores.cookie.dataControllerEmail
+                'name': this.options.dataControllerName,
+                'email': this.options.dataControllerEmail
             },
             'dataProtection': {
-                'name': this.stores.cookie.dataProtectionOfficerName,
-                'email': this.stores.cookie.dataProtectionOfficerEmail
+                'name': this.options.dataProtectionOfficerName,
+                'email': this.options.dataProtectionOfficerEmail
             }
         }
     }
